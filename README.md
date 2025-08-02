@@ -1,4 +1,3 @@
-
 Admin home page
 ![admin_panel](https://github.com/bhagatanirudh/JSP-Servlet_Projects/assets/87819222/5aec17c2-b906-420e-bffa-a7ba1fb7a491)
 Add category
@@ -22,19 +21,4 @@ Email Example
 ![order_shipped_mail (1)](https://github.com/bhagatanirudh/JSP-Servlet_Projects/assets/87819222/8733b6ea-431a-4dbf-86f8-edd749a6a2ec)
 ![reset_password_mail (1)](https://github.com/bhagatanirudh/JSP-Servlet_Projects/assets/87819222/7a6511ff-7fb2-46a0-9296-e3614289028f)
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+Author : Aryan Einstien
